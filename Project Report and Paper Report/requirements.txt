@@ -25,3 +25,4 @@ spacy
 textstat
 nltk
 subprocess
+tensorflow-hub
