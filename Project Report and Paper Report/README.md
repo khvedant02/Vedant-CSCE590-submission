@@ -63,5 +63,3 @@ Further details about the specific version of the package is mentioned in the re
 - [Stanford POS Tagger Tutorial](https://www.linguisticsweb.org/doku.phpid=linguisticsweb:tutorials:linguistics_tutorials:automaticannotation:stanford_pos_tagger_python)
 - [Triplet Loss](https://www.youtube.com/watch?v=d2XB5-tuCWU)
 - [Siamese Network](https://github.com/koushikkonwar/Few-Shot-)
-
-
