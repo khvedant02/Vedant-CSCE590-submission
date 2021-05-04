@@ -57,10 +57,10 @@ Further details about the specific version of the package is mentioned in the re
 
 ## References
 
-- [ClickBait Detector] (https://github.com/saurabhmathur96/clickbait-detector)
-- [Redability Index] (https://www.geeksforgeeks.org/readability-index-pythonnlp/)
-- [One Shot Learning] https://towardsdatascience.com/one-shot-learning-with-siamese-networks-using-keras-17f34e75bb3d
-- [Stanford POS Tagger Tutorial] (https://www.linguisticsweb.org/doku.php?id=linguisticsweb:tutorials:linguistics_tutorials:automaticannotation:stanford_pos_tagger_python)
-- [Triplet Loss] (https://www.youtube.com/watch?v=d2XB5-tuCWU)
+- [ClickBait Detector](https://github.com/saurabhmathur96/clickbait-detector)
+- [Redability Index](https://www.geeksforgeeks.org/readability-index-pythonnlp/)
+- [One Shot Learning](https://towardsdatascience.com/one-shot-learning-with-siamese-networks-using-keras-17f34e75bb3d)
+- [Stanford POS Tagger Tutorial](https://www.linguisticsweb.org/doku.phpid=linguisticsweb:tutorials:linguistics_tutorials:automaticannotation:stanford_pos_tagger_python)
+- [Triplet Loss](https://www.youtube.com/watch?v=d2XB5-tuCWU)
 
 
