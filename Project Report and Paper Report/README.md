@@ -62,5 +62,6 @@ Further details about the specific version of the package is mentioned in the re
 - [One Shot Learning](https://towardsdatascience.com/one-shot-learning-with-siamese-networks-using-keras-17f34e75bb3d)
 - [Stanford POS Tagger Tutorial](https://www.linguisticsweb.org/doku.phpid=linguisticsweb:tutorials:linguistics_tutorials:automaticannotation:stanford_pos_tagger_python)
 - [Triplet Loss](https://www.youtube.com/watch?v=d2XB5-tuCWU)
+- [Siamese Network](https://github.com/koushikkonwar/Few-Shot-)
 
 
